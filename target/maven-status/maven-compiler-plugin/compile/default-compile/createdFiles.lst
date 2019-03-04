@@ -1,0 +1,5 @@
+com/suri/spring/boot/web/controller/TopicController.class
+com/suri/spring/boot/web/model/Topic.class
+com/suri/spring/boot/web/model/TopicRepository.class
+com/suri/spring/boot/web/controller/TopicService.class
+com/suri/spring/boot/web/MyWebApplication.class
